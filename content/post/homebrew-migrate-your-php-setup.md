@@ -45,6 +45,7 @@ Install PHP via `brew install php@7.2`
 ## 4. Verify Installation
 
 Before we continue, we want to ensure that the
+
 - PHP installation was successful
 - [PATH] is set properly
 - [PEAR] is configured properly
@@ -108,6 +109,7 @@ If `pear config-show | grep php.ini` is pointing to the wrong `php.ini` file you
 ### Module already loaded / Unable to load library
 
 Example Warnings:
+
 - `PHP Warning:  Module '[some module]' already loaded in Unknown on line 0`
 - `PHP Warning:  PHP Startup: Unable to load dynamic library '[some module]' ([...]) in Unknown on line 0`
 
