@@ -27,7 +27,7 @@ This is not 100% necessary, but I wanted to have it clean.
 You can check what packages are installed via `brew list | grep php` for example and remove via `brew remove MYPACKAGE`.
 Check for leftovers in `/usr/local/etc/php/` and remove if necessary.
 Untap the deprecated repo `brew untap homebrew/php`.
-You can check your taps with `brew tap`
+You can check your taps with `brew tap`.
 I also had some other taps that I directly untapped as well because those were deprecated:
 
 - `brew untap homebrew/science`
@@ -61,7 +61,7 @@ If your app depends on a particular version of an extension, e.g. [redis in v3.1
 
 ### Extension `snmp`
 
-If you rely on the [SNMP Extension](https://secure.php.net/manual/en/book.snmp.php), i have to disappoint you right now.
+If you rely on the [SNMP Extension](https://secure.php.net/manual/en/book.snmp.php), I have to disappoint you right now.
 This extension is, state of now (2018-04-10), not part of this PHP build:
 
 > SNMP was excluded from the build because it crashes Apache.
@@ -70,7 +70,7 @@ Check out the comments of [SMillerDev](https://github.com/SMillerDev) in [php7.1
 
 ## 5. Cleanup
 
-To make some disk space free you and remove old versions of packages, execute `brew cleanup -s`.
+To make some disk space free, you may remove old versions of packages by executing `brew cleanup -s`.
 
 ## Resources
 
