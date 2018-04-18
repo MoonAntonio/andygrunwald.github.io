@@ -44,7 +44,7 @@ Install PHP via `brew install php@7.2`
 
 ## 4. Verify Installation
 
-Before we continue we want to ensure that the
+Before we continue, we want to ensure that the
 - PHP installation was successful
 - [PATH] is set properly
 - [PEAR] is configured properly
@@ -81,7 +81,7 @@ This extension is, state of now (2018-04-10), not part of this PHP build:
 
 > SNMP was excluded from the build because it crashes Apache.
 
-Check out the comments of [SMillerDev](https://github.com/SMillerDev) in 
+Check out the comments of [SMillerDev](https://github.com/SMillerDev) in
 [php7.1 extension warnings after migration to core and upgrade #4827](https://github.com/Homebrew/homebrew-php/issues/4827)
 and [php71: migrate to homebrew/core #4798](https://github.com/Homebrew/homebrew-php/pull/4798).
 
@@ -96,9 +96,9 @@ To make some disk space free, you may remove old versions of packages by executi
 If `php --version` is displaying the wrong PHP version try to open a new terminal window. The [PATH] variable got
 adjusted during the PHP installation and might not be loaded in your current terminal session.
 
-If the old version is still displayed check your [PATH] (`echo $PATH`) and ensure that `/usr/local/bin/` comes before 
+If the old version is still displayed check your [PATH] (`echo $PATH`) and ensure that `/usr/local/bin/` comes before
 `/usr/bin/` or uninstall the other PHP version if the [PATH] was already set properly. The commands
-`ls -la $(which php)` and `brew list | grep php` might help you finding out where that version is coming from.
+`ls -la $(which php)` and `brew list | grep php` might help you find out where that version is coming from.
 
 ### [PEAR] configuration is pointing to the wrong `php.ini` file
 
@@ -111,7 +111,7 @@ Example Warnings:
 - `PHP Warning:  Module '[some module]' already loaded in Unknown on line 0`
 - `PHP Warning:  PHP Startup: Unable to load dynamic library '[some module]' ([...]) in Unknown on line 0`
 
-During the installation of an extension, pecl is adding the extension to the `php.ini` file but not removing it 
+During the installation of an extension, pecl is adding the extension to the `php.ini` file but not removing it
 during uninstall. In this case edit your `php.ini` manually and remove deprecated `extension="[some module]"` lines.
 
 
