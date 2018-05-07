@@ -59,7 +59,7 @@ below.
 ## 5. Install Extensions
 
 The `intl` is now already built in.
-Install all other required extensions via [PECL] (gets installed together with PHP).
+Install all other required extensions via [PECL][] (gets installed together with PHP).
 
 Installation via pecl requires autoconf (`brew install autoconf`):
 
