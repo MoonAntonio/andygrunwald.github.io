@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usergroup on Andy Grunwald</title>
+    <link>https://andygrunwald.com/tags/usergroup/</link>
+    <description>Recent content in Usergroup on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 May 2018 15:53:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/tags/usergroup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Engineering DUS: Feedback wall in May meetup</title>
+      <link>https://andygrunwald.com/blog/web-engineering-dus-feedback-wall-in-may-meetup/</link>
+      <pubDate>Fri, 18 May 2018 15:53:01 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/web-engineering-dus-feedback-wall-in-may-meetup/</guid>
+      <description>Yesterday, we had our May 2018 edition of the Web Engingineering DUS Meetup with five very different lightning talks. Roundabout 75 people showed up.
+Dome and I run the WebEngDUS meetup for quite some time, and we ask ourselves how we can improve the experience and the value of this event. We try to play around with different formats of the evening, with a broad range of topics, with various speakers and so on.</description>
+    </item>
+    
+    <item>
+      <title>Web Engineering DUS: Satisfaction Survey 2017</title>
+      <link>https://andygrunwald.com/blog/web-engineering-dus-satisfaction-survey-2017/</link>
+      <pubDate>Mon, 15 Jan 2018 20:19:01 +0100</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/web-engineering-dus-satisfaction-survey-2017/</guid>
+      <description>&lt;p&gt;Since a couple of years I run the &lt;a href=&#34;https://www.meetup.com/Web-Engineering-Duesseldorf/&#34;&gt;Web Engineering Meetup Düsseldorf&lt;/a&gt; with the help of a couple of friends (primarly &lt;a href=&#34;https://twitter.com/milchjieper&#34;&gt;Dominik Siebel&lt;/a&gt;).
+In August 2017 we &lt;a href=&#34;https://www.meetup.com/Web-Engineering-Duesseldorf/messages/boards/thread/51064884&#34;&gt;created a satisfaction survey and sent it to the group&lt;/a&gt;.
+Here are the results.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lessons learned from running a local meetup</title>
+      <link>https://andygrunwald.com/blog/lesson-learned-from-running-a-local-meetup/</link>
+      <pubDate>Tue, 25 Oct 2016 12:15:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/lesson-learned-from-running-a-local-meetup/</guid>
+      <description>&lt;p&gt;I have been organizing the &lt;a href=&#34;https://www.meetup.com/PHP-Usergroup-Duesseldorf/&#34;&gt;PHP Usergroup Duesseldorf&lt;/a&gt; for about four years now.
+A monthly meetup focused on web engineering and new trends in this area.
+I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meeting motivated people, and fun.&lt;/p&gt;
+
+&lt;p&gt;The last time, many people asked me about my experience and if I can share some tips or what is essential when starting a new meetup (&lt;a href=&#34;https://twitter.com/andygrunwald/status/756192181677875200&#34;&gt;and I asked for it&lt;/a&gt;).
+In this post, I summarize all of that and provide tips, tricks and my lessons learned.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public-speakings on Andy Grunwald</title>
+    <link>https://andygrunwald.com/public-speaking/</link>
+    <description>Recent content in Public-speakings on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2017 09:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Redis the hard way ... in production</title>
+      <link>https://andygrunwald.com/public-speaking/devit-2017/</link>
+      <pubDate>Sat, 20 May 2017 09:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/devit-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges of containers in production</title>
+      <link>https://andygrunwald.com/public-speaking/codetalks-commerce-2017/</link>
+      <pubDate>Thu, 27 Apr 2017 09:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/codetalks-commerce-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Redis the hard way ... in production </title>
+      <link>https://andygrunwald.com/public-speaking/php-ug-muenster-2017-04/</link>
+      <pubDate>Tue, 18 Apr 2017 19:30:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/php-ug-muenster-2017-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Redis the hard way ... in production</title>
+      <link>https://andygrunwald.com/public-speaking/symfony-live-2017/</link>
+      <pubDate>Wed, 05 Apr 2017 09:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/symfony-live-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges of containers in production</title>
+      <link>https://andygrunwald.com/public-speaking/docker-meetup-duesseldorf-2017-04/</link>
+      <pubDate>Tue, 04 Apr 2017 18:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/docker-meetup-duesseldorf-2017-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers in production: It is easy?</title>
+      <link>https://andygrunwald.com/public-speaking/webengdus-container-2016/</link>
+      <pubDate>Thu, 22 Sep 2016 19:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/webengdus-container-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measurable code quality</title>
+      <link>https://andygrunwald.com/public-speaking/enterjs-2014/</link>
+      <pubDate>Mon, 30 Jun 2014 09:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/enterjs-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction into OpenSource and OpenSource licenses</title>
+      <link>https://andygrunwald.com/public-speaking/open-tech-school-2014/</link>
+      <pubDate>Wed, 14 May 2014 19:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/open-tech-school-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trivago – Just a Website?</title>
+      <link>https://andygrunwald.com/public-speaking/ipc-2013/</link>
+      <pubDate>Sun, 27 Oct 2013 09:00:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/public-speaking/ipc-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

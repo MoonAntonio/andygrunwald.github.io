@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lessons Learned on Andy Grunwald</title>
+    <link>https://andygrunwald.com/tags/lessons-learned/</link>
+    <description>Recent content in Lessons Learned on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2017 15:06:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/tags/lessons-learned/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Redis the hard way (in production) @ trivago techblog</title>
+      <link>https://andygrunwald.com/blog/learn-redis-the-hard-way-in-production--trivago-techblog/</link>
+      <pubDate>Sun, 12 Mar 2017 15:06:16 +0100</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/learn-redis-the-hard-way-in-production--trivago-techblog/</guid>
+      <description>In January this year, I wrote and published an article about our learnings of redis in production.
+The article Learn Redis the hard way (in production) was published in the trivago techblog. Check it out!</description>
+    </item>
+    
+    <item>
+      <title>Lessons learned from running a local meetup</title>
+      <link>https://andygrunwald.com/blog/lesson-learned-from-running-a-local-meetup/</link>
+      <pubDate>Tue, 25 Oct 2016 12:15:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/lesson-learned-from-running-a-local-meetup/</guid>
+      <description>&lt;p&gt;I have been organizing the &lt;a href=&#34;https://www.meetup.com/PHP-Usergroup-Duesseldorf/&#34;&gt;PHP Usergroup Duesseldorf&lt;/a&gt; for about four years now.
+A monthly meetup focused on web engineering and new trends in this area.
+I do this with a friend, 100% non-profit and motivated by our passion for open source, learning, meeting motivated people, and fun.&lt;/p&gt;
+
+&lt;p&gt;The last time, many people asked me about my experience and if I can share some tips or what is essential when starting a new meetup (&lt;a href=&#34;https://twitter.com/andygrunwald/status/756192181677875200&#34;&gt;and I asked for it&lt;/a&gt;).
+In this post, I summarize all of that and provide tips, tricks and my lessons learned.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

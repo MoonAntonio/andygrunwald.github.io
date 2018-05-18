@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macos on Andy Grunwald</title>
+    <link>https://andygrunwald.com/tags/macos/</link>
+    <description>Recent content in Macos on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Apr 2018 17:14:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrate your local PHP 7.2 setup to Homebrew v1.5.*</title>
+      <link>https://andygrunwald.com/blog/migrate-your-local-php-7.2-setup-to-homebrew-v1.5./</link>
+      <pubDate>Tue, 10 Apr 2018 17:14:20 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/migrate-your-local-php-7.2-setup-to-homebrew-v1.5./</guid>
+      <description>Last week, Hans Puac, a colleague of mine, wrote a small guide into our internal company chat on how to migrate your local PHP environment on macOS to the new Homebrew version 1.5.*. The guide helped a lot of other engineers inside trivago. I thought it might help more people from the internet. I asked Hans if I am allowed to share it, and he approved. So kudos belongs to him.</description>
+    </item>
+    
+  </channel>
+</rss>

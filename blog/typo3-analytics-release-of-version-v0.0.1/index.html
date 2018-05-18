@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<title>TYPO3-Analytics: Release of version v0.0.1&middot; Andy Grunwald</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="Andy Grunwald">
+	<meta name="description" content="Andy Grunwald - Software Engineer from Germany">
+	<meta name="keywords" content="backend,infrastructure,operations,devops,web development,web engineering">
+	<meta name="generator" content="Hugo 0.40.2" />
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://andygrunwald.com/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="https://andygrunwald.com/favicon.ico" type="image/x-icon">
+
+	
+
+	<!-- Font Awesome -->
+	<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+	<header class="site-header">
+	<div class="branding">
+		<a href="https://andygrunwald.com/">
+		<img class="avatar" src="https://andygrunwald.com/img/avatar.jpeg" alt="avatar"/>
+		</a>
+		<h1 class="site-title">
+			<a href="https://andygrunwald.com/">Andy Grunwald</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+			<li><a href="/"> Blog </a></li><li><a href="/public-speaking/"> Public speaking </a></li><li><a href="/about/"> About </a></li>
+
+			
+
+<li class="icon">
+	<a href="https://andygrunwald.com/index.xml" title="Subcribe">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+<li class="icon">
+	<a href="mailto:andygrunwald@gmail.com" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+<li class="icon">
+	<a href="https://github.com/andygrunwald" title="Github">
+		<i class="fa fa-fw fa-github"></i>
+	</a>
+</li>
+
+
+
+
+
+<li class="icon">
+	<a href="https://www.linkedin.com/in/andy-grunwald-09aa265a" title="Linkedin">
+		<i class="fa fa-fw fa-linkedin"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="icon">
+	<a href="https://twitter.com/andygrunwald" title="Twitter">
+		<i class="fa fa-fw fa-twitter"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+<li class="icon">
+	<a href="https://meetup.com/Web-Engineering-Duesseldorf/" title="">
+		<i class="fa fa-fw fa-meetup"></i>
+	</a>
+</li>
+		</ul>
+	</nav>
+</header>
+
+
+	<div class="content">
+	<article>
+		<header>
+			<h1 class="title">TYPO3-Analytics: Release of version v0.0.1</h1>
+			
+				<p class="meta">
+	February 15, 2014 &middot; 2 minute read
+
+	
+		&middot; Tags:
+			<a href="https://andygrunwald.com/tags/analytics">analytics</a>
+			, <a href="https://andygrunwald.com/tags/development">development</a>
+			, <a href="https://andygrunwald.com/tags/jacobine">jacobine</a>
+			, <a href="https://andygrunwald.com/tags/metrics">metrics</a>
+			, <a href="https://andygrunwald.com/tags/open-source">open source</a>
+			, <a href="https://andygrunwald.com/tags/software-repository-mining">software repository mining</a>
+			, <a href="https://andygrunwald.com/tags/typo3">typo3</a>
+			
+</p>
+
+			
+		</header>
+
+		<section class="post-content">
+			<p>Today i tagged and released version <a href="https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1">v0.0.1</a> of the project <a href="https://github.com/andygrunwald/TYPO3-Analytics">TYPO3-Analytics</a>.
+After <a href="https://www.timeanddate.com/date/durationresult.html?d1=19&amp;m1=4&amp;y1=2013&amp;d2=15&amp;m2=2&amp;y2=2014&amp;ti=on">303 days</a> and <a href="https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.0.1">144 commits</a> later, i decided to make a &ldquo;cut&rdquo; and start a new version.</p>
+
+<p>This version is a first (workable as far as I know) &ldquo;proof of concept&rdquo; for a repository mining platform to produce (community) metrics of various systems.
+The first example system is <a href="https://typo3.org/">TYPO3</a>.</p>
+
+<p></p>
+
+<h1 id="what-does-this-version-include">What does this version include?</h1>
+
+<p>13 <a href="https://www.rabbitmq.com/">RabbitMQ</a> consumer written in PHP:</p>
+
+<ul>
+<li>Download a git resource</li>
+<li>Download an HTTP resource</li>
+<li>Extract a tar.gz archive</li>
+<li>Crawl a Gerrit server</li>
+<li>Crawl a single Gerrit project</li>
+<li>Crawl a Gitweb site</li>
+<li>Crawl an NNTP server</li>
+<li>Crawl a single NNTP group</li>
+<li>Analyze the filesize of a file</li>
+<li>Analyze a VCS repository via CVSAnaly</li>
+<li>Analyze PHP source code via PHPLoc</li>
+<li>Analyze PHP source code via pDepend</li>
+<li>Analyze used programming languages via GitHub linguist</li>
+</ul>
+
+<p>4 RabbitMQ producer written in PHP:</p>
+
+<ul>
+<li>Messages to crawl a Gerrit code review system</li>
+<li>Messages to download TYPO3 releases from get.typo3.org</li>
+<li>Messages to crawl a Gitweb site</li>
+<li>Messages to crawl an NNTP server</li>
+</ul>
+
+<p>This release can be downloaded from github: <a href="https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1">v0.0.1: Release of version 0.0.1</a></p>
+
+<h1 id="what-will-be-tackled-in-the-next-version">What will be tackled in the next version?</h1>
+
+<p>There is no concrete roadmap for the next version(s).
+And I do not know which version number will it be.
+Maybe a new minor, perhaps a new major version.
+The next version of TYPO3-Analytics will focus on:</p>
+
+<ul>
+<li>code quality</li>
+<li>testing</li>
+<li>stability</li>
+<li>flexibility</li>
+<li>documentation</li>
+</ul>
+
+<p>This means that I try to refactor some code, create unit and integration tests, try to tackle some bugs and &ldquo;unused&rdquo; concepts to make a better use of existing functionality (e.g. <a href="https://www.rabbitmq.com/dlx.html">RabbitMQ Dead Lettering</a>) and to add more parameter to messages to decouple the existing consumer from the proof of concept TYPO3.</p>
+
+<p>Furthermore, I want to write more documentation and some blog posts about the architecture and concept of this project. I got the hope to find more contributor or to find more people who are interested in it. Maybe it will help. We will see.</p>
+
+<p>If you want to contribute and you do not know how just contact me via Twitter (<a href="https://twitter.com/andygrunwald">@andygrunwald</a>) or by e-mail (<a href="https://github.com/andygrunwald">github profile</a>).</p>
+		</section>
+	</article>
+	
+	
+	<div class="comments contribute-link">
+		<h3>Bug? Typo? Contribute!</h3>
+		<p>Found a bug or a typo in this article? Feel free to create a pull request at <a href="https://github.com/andygrunwald/andygrunwald.github.io/blob/develop/content/post/typo3-analytics-release-of-version-v0.0.1.md"><em>TYPO3-Analytics: Release of version v0.0.1</em></a> at GitHub<i class="fa fa-fw fa-github"></i></p>
+	</div>
+	<div class="comments related-posts">
+		
+			
+
+<h3>Continue reading</h3>
+<ul>
+	
+	<li><a href="/blog/typo3-analytics-goes-jacobine/">TYPO3-Analytics goes Jacobine</a></li>
+	
+	<li><a href="/blog/typo3-analytics-release-of-version-v0.1.0/">TYPO3-Analytics: Release of version v0.1.0</a></li>
+	
+	<li><a href="/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/">TYPO3-Analytics is looking for a new name - suggestions welcome!</a></li>
+	
+	<li><a href="/blog/the-story-about-the-topic-of-my-bachelor-thesis/">The story about the topic of my bachelor thesis</a></li>
+	
+</ul>
+
+		
+	</div>
+	
+	</div>
+
+	<footer class="site-footer">
+	<p class="text">&copy; 2018 - Andy Grunwald</p>
+</footer>
+
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-64342623-1', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+</script>
+
+</body>
+</html>

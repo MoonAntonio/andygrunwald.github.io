@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/web-engineering-dus-feedback-wall-in-may-meetup/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/migrate-your-local-php-7.2-setup-to-homebrew-v1.5./</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/web-engineering-dus-satisfaction-survey-2017/</loc>
+    <lastmod>2018-01-15T20:19:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/devit-2017/</loc>
+    <lastmod>2017-05-20T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/codetalks-commerce-2017/</loc>
+    <lastmod>2017-04-27T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/php-ug-muenster-2017-04/</loc>
+    <lastmod>2017-04-18T19:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/symfony-live-2017/</loc>
+    <lastmod>2017-04-05T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/docker-meetup-duesseldorf-2017-04/</loc>
+    <lastmod>2017-04-04T18:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/learn-redis-the-hard-way-in-production--trivago-techblog/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/lesson-learned-from-running-a-local-meetup/</loc>
+    <lastmod>2016-10-25T12:15:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/webengdus-container-2016/</loc>
+    <lastmod>2016-09-22T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/about/</loc>
+    <lastmod>2016-07-31T18:53:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/resources-to-learn-golang/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/enterjs-2014/</loc>
+    <lastmod>2014-06-30T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/open-tech-school-2014/</loc>
+    <lastmod>2014-05-14T19:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/typo3-analytics-goes-jacobine/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.1.0/</loc>
+    <lastmod>2014-04-19T12:51:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/the-story-about-the-topic-of-my-bachelor-thesis/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/</loc>
+    <lastmod>2014-03-03T13:06:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.0.1/</loc>
+    <lastmod>2014-02-15T13:10:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/ipc-2013/</loc>
+    <lastmod>2013-10-27T09:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/analytics/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/bachelor-of-science/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/community/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/conferences/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/cvsanaly/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/database/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/development/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/environment/</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/experience/</loc>
+    <lastmod>2016-10-25T12:15:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/feedback/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/fosdem/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/go/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/golang/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/google/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/homebrew/</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/jacobine/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/jacobine/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/language/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/lessons-learned/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/lessons-learned/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/macos/</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/meetup/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/meetups/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/metrics/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/nosql/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/open-source/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/open-source/</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/php/</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/php/</loc>
+    <lastmod>2018-04-10T17:14:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/php-usergroup-d%C3%BCsseldorf/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/phpugdus/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/post/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/production/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/programming/</loc>
+    <lastmod>2015-06-20T10:42:38+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/categories/public-speaking/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/public-speaking/</loc>
+    <lastmod>2017-05-20T09:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/python/</loc>
+    <lastmod>2014-03-21T13:01:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/redis/</loc>
+    <lastmod>2017-03-12T15:06:16+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/software-repository-mining/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/survey/</loc>
+    <lastmod>2018-01-15T20:19:01+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/typo3/</loc>
+    <lastmod>2014-04-22T12:45:13+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/usergroup/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/web-engineering-d%C3%BCsseldorf/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andygrunwald.com/tags/webengdus/</loc>
+    <lastmod>2018-05-18T15:53:01+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

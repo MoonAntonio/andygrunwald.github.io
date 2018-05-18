@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typo3 on Andy Grunwald</title>
+    <link>https://andygrunwald.com/tags/typo3/</link>
+    <description>Recent content in Typo3 on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2014 12:45:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/tags/typo3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TYPO3-Analytics goes Jacobine</title>
+      <link>https://andygrunwald.com/blog/typo3-analytics-goes-jacobine/</link>
+      <pubDate>Tue, 22 Apr 2014 12:45:13 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/typo3-analytics-goes-jacobine/</guid>
+      <description>&lt;p&gt;For quite some time I was looking for a new name for an open source project of mine: &lt;em&gt;TYPO3-Analytics&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am (sadly) not creative in naming things or painting.
+The most prominent part of creativity is during development and programming.
+To find a name is (in my point of view) very difficult.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TYPO3-Analytics: Release of version v0.1.0</title>
+      <link>https://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.1.0/</link>
+      <pubDate>Sat, 19 Apr 2014 12:51:03 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.1.0/</guid>
+      <description>&lt;p&gt;The project grows and grows :)
+The next release of &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.1.0&#34;&gt;TYPO3-Analytics in version v0.1.0&lt;/a&gt; is out!
+This release covers various nice features, enhancements, and bugfixes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TYPO3-Analytics is looking for a new name - suggestions welcome!</title>
+      <link>https://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/</link>
+      <pubDate>Mon, 03 Mar 2014 13:06:41 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/typo3-analytics-is-looking-for-a-new-name---suggestions-welcome/</guid>
+      <description>&lt;p&gt;At &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/commit/b44dd91e359ad55478919cc94278d26fffbdde03&#34;&gt;Apr 19, 2013&lt;/a&gt; I started &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics&#34;&gt;TYPO3-Analytics&lt;/a&gt; to create a prototype or proof of concept to make my first steps in fields data mining/software repository mining, statistics, and data visualization.&lt;/p&gt;
+
+&lt;p&gt;At this time I got an extensive and in-depth knowledge of the &lt;a href=&#34;https://typo3.org/&#34;&gt;TYPO3&lt;/a&gt; ecosystem (code, people, tools, systems, processes, events, etc.) and the TYPO3 community manager &lt;a href=&#34;https://ben.vanten.de/&#34;&gt;Ben van &amp;rsquo;t ende&lt;/a&gt; motivated me to create some metrics ;)
+So the first project was TYPO3.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TYPO3-Analytics: Release of version v0.0.1</title>
+      <link>https://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.0.1/</link>
+      <pubDate>Sat, 15 Feb 2014 13:10:00 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/typo3-analytics-release-of-version-v0.0.1/</guid>
+      <description>&lt;p&gt;Today i tagged and released version &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/releases/tag/v0.0.1&#34;&gt;v0.0.1&lt;/a&gt; of the project &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics&#34;&gt;TYPO3-Analytics&lt;/a&gt;.
+After &lt;a href=&#34;https://www.timeanddate.com/date/durationresult.html?d1=19&amp;amp;m1=4&amp;amp;y1=2013&amp;amp;d2=15&amp;amp;m2=2&amp;amp;y2=2014&amp;amp;ti=on&#34;&gt;303 days&lt;/a&gt; and &lt;a href=&#34;https://github.com/andygrunwald/TYPO3-Analytics/commits/v0.0.1&#34;&gt;144 commits&lt;/a&gt; later, i decided to make a &amp;ldquo;cut&amp;rdquo; and start a new version.&lt;/p&gt;
+
+&lt;p&gt;This version is a first (workable as far as I know) &amp;ldquo;proof of concept&amp;rdquo; for a repository mining platform to produce (community) metrics of various systems.
+The first example system is &lt;a href=&#34;https://typo3.org/&#34;&gt;TYPO3&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

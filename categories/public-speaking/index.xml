@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Speaking on Andy Grunwald</title>
+    <link>https://andygrunwald.com/categories/public-speaking/</link>
+    <description>Recent content in Public Speaking on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Mar 2017 15:06:16 +0100</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/categories/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Redis the hard way (in production) @ trivago techblog</title>
+      <link>https://andygrunwald.com/blog/learn-redis-the-hard-way-in-production--trivago-techblog/</link>
+      <pubDate>Sun, 12 Mar 2017 15:06:16 +0100</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/learn-redis-the-hard-way-in-production--trivago-techblog/</guid>
+      <description>In January this year, I wrote and published an article about our learnings of redis in production.
+The article Learn Redis the hard way (in production) was published in the trivago techblog. Check it out!</description>
+    </item>
+    
+  </channel>
+</rss>

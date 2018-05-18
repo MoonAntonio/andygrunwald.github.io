@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Andy Grunwald</title>
+    <link>https://andygrunwald.com/categories/go/</link>
+    <description>Recent content in Go on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Jun 2015 10:42:38 +0200</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/categories/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources to learn Go(lang)</title>
+      <link>https://andygrunwald.com/blog/resources-to-learn-golang/</link>
+      <pubDate>Sat, 20 Jun 2015 10:42:38 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/resources-to-learn-golang/</guid>
+      <description>&lt;p&gt;Since some time I am fascinated by the &lt;a href=&#34;https://golang.org/&#34;&gt;go programing language&lt;/a&gt; launched by Google in 2009.
+I am a person with a scripting language background (&lt;a href=&#34;https://php.net/&#34;&gt;PHP&lt;/a&gt; and &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;) and was motivated to learn a new programing language.&lt;/p&gt;
+
+&lt;p&gt;I chose go(lang) because I wanted to do some system programming with concurrency support.&lt;/p&gt;
+
+&lt;p&gt;Because I share my love with my friends and colleagues, I am often asked &lt;em&gt;How do I start with Go?&lt;/em&gt;, or &lt;em&gt;Do you got some excellent resources to learn Go?&lt;/em&gt;.
+This article is about which resources I used to learn Go.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

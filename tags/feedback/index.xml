@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feedback on Andy Grunwald</title>
+    <link>https://andygrunwald.com/tags/feedback/</link>
+    <description>Recent content in Feedback on Andy Grunwald</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 May 2018 15:53:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://andygrunwald.com/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web Engineering DUS: Feedback wall in May meetup</title>
+      <link>https://andygrunwald.com/blog/web-engineering-dus-feedback-wall-in-may-meetup/</link>
+      <pubDate>Fri, 18 May 2018 15:53:01 +0200</pubDate>
+      
+      <guid>https://andygrunwald.com/blog/web-engineering-dus-feedback-wall-in-may-meetup/</guid>
+      <description>Yesterday, we had our May 2018 edition of the Web Engingineering DUS Meetup with five very different lightning talks. Roundabout 75 people showed up.
+Dome and I run the WebEngDUS meetup for quite some time, and we ask ourselves how we can improve the experience and the value of this event. We try to play around with different formats of the evening, with a broad range of topics, with various speakers and so on.</description>
+    </item>
+    
+  </channel>
+</rss>
